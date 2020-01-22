@@ -1,3 +1,8 @@
+#welcom to my github me 
+Untuk kalian yang ingin menggunakan sourcode ini haru izin terlebih dahulu
+Kepada yunas yang ganteng
+
+
 <!doctype html>
 <html lang="en">
   <head>
